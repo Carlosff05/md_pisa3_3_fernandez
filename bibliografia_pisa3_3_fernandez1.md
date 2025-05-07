@@ -21,3 +21,7 @@
 [Ejemplos del sector informático](https://www.bassolsenergia.com/es/blog/innovaciones-economia-circular/)
 
 [Mas ejemplos de Ecodiseño](https://www.ellenmacarthurfoundation.org/es/temas/diseno-circular/ejemplos)
+
+---
+
+[Volver al índice](/indice_pisa3_3_fernandez1.md)

@@ -25,3 +25,9 @@
 ### 7.2. Ejemplos de ecodiseño aplicados a sectores específicos
 
 [Ir a la sección](7.2_Ejemplos-de-Ecodisenio_fernandez.md)
+
+---
+
+## Bibliografía
+
+[Ir a la bibliografía](/bibliografia_pisa3_3_fernandez1.md)
